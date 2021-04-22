@@ -6,6 +6,7 @@ import Calculador from './main/Calculator';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(<Calculator />,document.getElementById('root'));
+reportWebVitals();
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
