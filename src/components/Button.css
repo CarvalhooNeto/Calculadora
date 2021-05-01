@@ -13,3 +13,25 @@
     outline: none; /*retirando a borda ao clicar */
 
 }
+
+.button:active {/*ativo, quando há um click */
+    background-color: #ccc;
+
+}
+
+.button.double {
+    grid-column: span 2; 
+}
+
+.button.triple {
+    grid-column: span 3;
+}
+
+.button.operation {
+    background-color: #fa8231;
+    color: #f0f0f0
+}
+
+.button.operation:active {
+    background-color: #fa8231cc;
+}
