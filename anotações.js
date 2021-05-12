@@ -12,10 +12,12 @@
  *  Utilizado no arquivo button.jsx, com a justificativa de lidar com javasrcript puro, se fosse apenas
  *  jsx utilizariamos apenas {}
  * 
- *  THIS
- *  Revisar o conteúdo this
+ *  REACT + THIS + BIND
+ *  https://medium.com/tableless/https-medium-com-tableless-react-this-bind-so-sei-que-e-assim-73e75f2adbd3
  * 
  *  JSX
  *  A variável classes no button.jsx precisa de um espaço após o nome para concatenar o css
  *  
+ *  Funções interessantes
+ *  O laço if dentro da função AddDigit() em Calculator.jsx
  */
